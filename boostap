@@ -1,0 +1,23 @@
+boostrap 5.2.3
+Bootstap is a css framework which uses predefined classes to  style the html element
+bootstrap is predefined classes, templetes for navbar ,carousel , tooltip , modal,  pagination etc.
+bootstrap know his grid syatem which internally uses flex
+bootstrap help the developer to make the web developement faster
+unlike bootstrap 3& 4 bootstrap 5 comes with make responsive classes and use vanila javascript instead to JQuery 
+can add bootstrap to our html page by using CDN  links and by downloading its offline file and then link to our html pages 
+
+BREAKPRINTS
+
+xs     0-575px
+sm     576-767px
+md     768-991px
+lg     992-1199px
+xl     1200-1399px
+xxl    1400px- and more..
+
+colors
+
+red       bg-danger    text-danger
+oraange   bg-warning
+green     bg-success
+
